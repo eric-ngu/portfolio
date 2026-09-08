@@ -1,0 +1,12 @@
+{
+  "name": "eric-ngu-portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/prepare-fonts.mjs && wrangler dev --assets=public",
+    "build": "node scripts/prepare-fonts.mjs && node scripts/build.mjs",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "version": "v67",
+  "deployment": "Cloudflare Workers static assets via Wrangler",
+  "source_directory": "public",
+  "output_directory": "dist",
+  "commands": {
+    "install": "npm install",
+    "dev": "npm run dev",
+    "deploy": "npm run deploy"
+  },
+  "local_refs_checked": 47,
+  "missing_local_refs": [],
+  "font_files": [
+    "BuilderSans-Bold.otf",
+    "BuilderSans-ExtraBold.otf",
+    "BuilderSans-Medium.otf",
+    "BuilderSans-Regular.otf",
+    "BuilderSans-SemiBold.woff2"
+  ],
+  "signature_sha256": "5aebe5985786b492fe5fca436d8d939e1ec935a97c745bdba82712c76032b96a"
+}

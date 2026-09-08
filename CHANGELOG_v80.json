@@ -1,0 +1,8 @@
+{
+  "version": "v80",
+  "changes": [
+    "Added localized color-blend blue light passes so #7eb8fd stays visibly blue on bright grayscale skin and clothing instead of washing toward white.",
+    "Strengthened additive emitted-light spill on the palm and right side of the monochrome portrait.",
+    "Kept blue lighting synchronized with the Photoshop focus cycle and liquid-glass treatment."
+  ]
+}

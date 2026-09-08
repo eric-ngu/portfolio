@@ -1,0 +1,9 @@
+{
+  "version": "v79",
+  "changes": [
+    "Restored the old desktop navigation with no hamburger at 768px and above; hamburger remains mobile-only.",
+    "Made the Photoshop blue practical light clearly visible on the monochrome subject and especially the palm.",
+    "Kept the liquid-glass Photoshop treatment and synchronized focus behavior.",
+    "Simplified the mobile menu styling using the Uncodixfy guidance: solid surfaces, simple borders, restrained transitions."
+  ]
+}

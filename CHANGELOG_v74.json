@@ -1,0 +1,8 @@
+{
+  "version": "v74",
+  "changes": [
+    "Moved right-side hero visual upward for better alignment.",
+    "Restored cinematic rack-focus blur: the main base softly blurs while the Photoshop icon comes into focus, then returns.",
+    "Kept the hand static and kept motion limited to the Photoshop icon / glow only."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": "v77",
+  "changes": [
+    "Added a masked liquid-glass layer under the Photoshop icon using the provided SVG reference.",
+    "Kept blur/focus states synced across the glass, glow, icon, and scanlines.",
+    "Anchored the right hero visual to the centered site container to reduce misalignment when zooming out.",
+    "Implemented a functioning mobile hamburger navigation with a clean panel and working links/Discord action.",
+    "Light UI cleanup: simplified mobile controls and reduced decorative motion in the navigation."
+  ]
+}

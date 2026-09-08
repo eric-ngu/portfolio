@@ -1,0 +1,9 @@
+{
+  "version": "v82",
+  "changes": [
+    "Removed dangling rail-percent 00 element and unmatched closing div that created top whitespace.",
+    "Increased liquid-glass refraction displacement from 54 to 118 strength, depth to 22, and chromatic aberration to 3.4.",
+    "Extended the Photoshop composite sharp-focus hold by roughly three seconds with a 16.4s cycle and 42%-70% sharp plateau.",
+    "Kept the entire Photoshop glass/icon/scanline composite blurred as one object during out-of-focus phases."
+  ]
+}

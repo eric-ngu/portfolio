@@ -1,0 +1,10 @@
+{
+  "version": "v75",
+  "changes": [
+    "Slowed the rack-focus cycle from 5.8s to 10.8s with longer sharp/blur holds.",
+    "Added a more noticeable static-layer hand hover animation.",
+    "Strengthened Photoshop-only scanlines and made them more luminous.",
+    "Added a masked #7eb8fd reflected light pass onto the main base near the Photoshop icon.",
+    "Changed the right-side visual entrance to opacity-only fade, removing the generic reveal movement."
+  ]
+}

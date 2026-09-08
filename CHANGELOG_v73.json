@@ -1,0 +1,13 @@
+{
+  "version": "v73",
+  "base": "v70 full deploy",
+  "changes": [
+    "No structural hero/grid changes; existing v70 layout preserved.",
+    "Added right-side 898x1175 registered PNG stack.",
+    "Portrait and hand are completely static.",
+    "Only Photoshop icon receives subtle motion, #7eb8fd plus-lighter glow, and icon-masked scanlines.",
+    "Removed all black panel, ring, caption, and tech UI clutter.",
+    "Instrument Serif visual/hooks spans set to bold."
+  ],
+  "inline_js_blocks_checked": 2
+}

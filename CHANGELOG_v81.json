@@ -1,0 +1,10 @@
+{
+  "version": "v81",
+  "changes": [
+    "Removed the side WORK scroll progress rail.",
+    "Replaced Grow A Garden \u2014 Noob vs Pro with Camo or Snipe using the supplied thumbnail.",
+    "Removed Thumbnail Design text from every work card, including dynamically rendered cards.",
+    "Reworked Photoshop liquid glass using SVG displacement/refraction inspired by nikdelvin/liquid-glass.",
+    "Blur/focus now applies to the entire Photoshop composite (glass, icon, glow, scanlines) as one rendered object."
+  ]
+}
